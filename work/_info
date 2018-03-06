@@ -1,0 +1,384 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vAdder
+Z1 !s100 ll1I8HEg5XWIn3R;UQOWj1
+Z2 I23[`moJMhjF>j3<1bLGfc0
+Z3 Vl^6WhCzADl<8@Rh2^<ZAT1
+Z4 d\\Mac\Home\Desktop\CA\Project\CA01\ProjectVerilog
+Z5 w1520398598
+Z6 8//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Adder.v
+Z7 F//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Adder.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Adder.v|
+Z10 o-work work -O0
+Z11 n@adder
+Z12 !s108 1520435407.638000
+Z13 !s107 //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vBReg
+Z14 !s100 C]GcA3Lje?CWJPl8Kma5b3
+Z15 I[bm;K`IEScSk7F^Vk0<]93
+Z16 VGbSm@A`3ARG0O7lBI4>@93
+R4
+Z17 w1520400733
+Z18 8//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/BReg.v
+Z19 F//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/BReg.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/BReg.v|
+R10
+Z21 n@b@reg
+Z22 !s108 1520435407.888000
+Z23 !s107 //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/BReg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vComprator
+Z24 !s100 h2U^CC;cd<ZW_Q_oAWP4I2
+Z25 IlN<?K3dW[oFU2aioNRRI23
+Z26 VgB<OPnclaQLQKD<fiNKVL2
+R4
+Z27 w1520402574
+Z28 8//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Comprator.v
+Z29 F//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Comprator.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Comprator.v|
+R10
+Z31 n@comprator
+Z32 !s108 1520435408.154000
+Z33 !s107 //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Comprator.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+Z34 !s100 ?3n2^o362^0<;m`1<29WS2
+Z35 I5H:<ihMG^<JOF4[N^<^;z2
+Z36 VKb1V:mjUD]2G3BXQR`HIn3
+R4
+Z37 w1520434460
+Z38 8//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/controller.v
+Z39 F//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/controller.v
+L0 1
+R8
+r1
+31
+Z40 !s108 1520435408.403000
+Z41 !s107 //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/controller.v|
+Z42 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/controller.v|
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrollerTB
+Z43 !s100 [EJgE78L1KE<U2bbQ9Xz`0
+Z44 IFSnmFZS7DW2@OKT7OGXPk1
+Z45 V:QKT7NW?<ko44IU5PJT6T3
+R4
+R37
+R38
+R39
+L0 48
+R8
+r1
+31
+R40
+R41
+R42
+R10
+Z46 ncontroller@t@b
+!i10b 1
+!s85 0
+!s101 -O0
+vCounter
+Z47 !s100 NDHYMlal?gW6NEn02Gn[61
+Z48 I0`6Y>zAKiY]fbeoH]oKgJ2
+Z49 V9?9PMFzIIDW;R4Po4m69V2
+R4
+Z50 w1520413338
+Z51 8//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Counter.v
+Z52 F//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Counter.v
+L0 1
+R8
+r1
+31
+Z53 !s108 1520435408.731000
+Z54 !s107 //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Counter.v|
+Z55 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Counter.v|
+R10
+Z56 n@counter
+!i10b 1
+!s85 0
+!s101 -O0
+vcounterTB
+Z57 !s100 ALSAJX`:5@oXL>hU2382N2
+Z58 I4`?]03kiR>[mDTR04AzYC3
+Z59 V=QdoT>h;3WfYUAF^fQcY61
+R4
+R50
+R51
+R52
+L0 19
+R8
+r1
+31
+R53
+R54
+R55
+R10
+Z60 ncounter@t@b
+!i10b 1
+!s85 0
+!s101 -O0
+vdataPath
+Z61 I:oXg<A[Z;hcLbbUG0``=R2
+Z62 V8g?i8K2iCO]88RY9S=kT>3
+R4
+Z63 w1520435365
+Z64 8//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/dataPath.v
+Z65 F//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/dataPath.v
+L0 1
+R8
+r1
+31
+Z66 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/dataPath.v|
+R10
+Z67 ndata@path
+Z68 !s100 G<a^kI?SC>C?@oTcDM1XL1
+Z69 !s108 1520435411.122000
+Z70 !s107 //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/dataPath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vExpReg
+Z71 !s100 <AILmHN6aM>a4^1GYhUzd1
+Z72 I1m_GAcF15l66?^[1lFZWH2
+Z73 V5<z`XiUY`>:gX=l?@YhCe1
+R4
+Z74 w1520398237
+Z75 8//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ExpReg.v
+Z76 F//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ExpReg.v
+L0 1
+R8
+r1
+31
+Z77 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ExpReg.v|
+R10
+Z78 n@exp@reg
+Z79 !s108 1520435409.106000
+Z80 !s107 //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ExpReg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfloatingPointAdder
+Z81 IzoH5jmc1VS@W@bQacoG_X2
+Z82 V1QgkB36?b2SD2nfVY[fL?1
+R4
+Z83 w1520435387
+Z84 8//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/floatingPointAdder.v
+Z85 F//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/floatingPointAdder.v
+L0 1
+R8
+r1
+31
+Z86 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/floatingPointAdder.v|
+R10
+Z87 nfloating@point@adder
+!i10b 1
+Z88 !s100 ec?6PKOl8CzBQYS@@E`m82
+!s85 0
+Z89 !s108 1520435411.387000
+Z90 !s107 //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/floatingPointAdder.v|
+!s101 -O0
+vManReg
+Z91 !s100 @n<4kY8]V?8h3A31B3kWa1
+Z92 IcF4LkL1h04I]h^He@;nE=3
+Z93 Vgg>RjkiMEF93Dh1?d:a=D2
+R4
+R74
+Z94 8//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ManReg.v
+Z95 F//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ManReg.v
+L0 1
+R8
+r1
+31
+Z96 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ManReg.v|
+R10
+Z97 n@man@reg
+Z98 !s108 1520435409.372000
+Z99 !s107 //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ManReg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSFF
+Z100 !s100 P;E9bDafm_@iaz_locV;21
+Z101 Ii?6HDlYQJKGWMMYCA^Fnd1
+Z102 V=7nPMR<>eJA`B;A8O?0R^1
+R4
+R74
+Z103 8//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/SFF.v
+Z104 F//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/SFF.v
+L0 1
+R8
+r1
+31
+Z105 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/SFF.v|
+R10
+Z106 n@s@f@f
+Z107 !s108 1520435409.871000
+Z108 !s107 //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/SFF.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vShiftRegA
+Z109 !s100 OCCIIf_c>faiHULPNo:nd1
+Z110 I_D@PAEoJ<KWCCS9`k7>oU0
+Z111 V34VKecAZG1>lFDVXaUIFO2
+R4
+Z112 w1520409182
+Z113 8//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ShiftRegA.v
+Z114 F//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ShiftRegA.v
+L0 1
+R8
+r1
+31
+Z115 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ShiftRegA.v|
+R10
+Z116 n@shift@reg@a
+Z117 !s108 1520435410.107000
+Z118 !s107 //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ShiftRegA.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vShiftRegFM
+Z119 !s100 ?>k2PS678>?Ka]4BDNYJW3
+Z120 IXN4jU<5j_YdoaX1GhLN<Y1
+Z121 VmK>IRM1_76L3[PmIj1Yn>1
+R4
+Z122 w1520400845
+Z123 8//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ShiftRegFM.v
+Z124 F//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ShiftRegFM.v
+L0 1
+R8
+r1
+31
+Z125 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ShiftRegFM.v|
+R10
+Z126 n@shift@reg@f@m
+Z127 !s108 1520435410.357000
+Z128 !s107 //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ShiftRegFM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vShiftRegister
+Z129 ID_PY8cTz?1a0D]CkEgW5H3
+Z130 VYRcG]JVjbmkfR]2b7ZZ1P1
+R4
+Z131 w1520399643
+R123
+R124
+L0 1
+R8
+r1
+31
+R10
+Z132 n@shift@register
+Z133 !s100 ]W6J6Bbe1d_2geI[^3AH@2
+Z134 !s108 1520400756.809000
+R128
+R125
+!i10b 1
+!s85 0
+!s101 -O0
+vSReg
+Z135 !s100 1XGcE2ZX[WgU3EFjl4j750
+Z136 IA@UP7nWddaz0b[gzeWm5W0
+Z137 V5Dil8]nkJk1Vm;cEe8TJk2
+R4
+Z138 w1520409671
+Z139 8//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/RegS.v
+Z140 F//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/RegS.v
+L0 1
+R8
+r1
+31
+Z141 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/RegS.v|
+R10
+Z142 n@s@reg
+Z143 !s108 1520435409.622000
+Z144 !s107 //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/RegS.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSubtractor
+Z145 !s100 5YET3R<8I3M2Fm:g^:2BF1
+Z146 ISIC1?9cOROWbY[zP?a93B0
+Z147 VVTBgN1H;:gkeAk:c5S_VO2
+R4
+Z148 w1520408594
+Z149 8//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Subtractor.v
+Z150 F//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Subtractor.v
+L0 1
+R8
+r1
+31
+Z151 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Subtractor.v|
+R10
+Z152 n@subtractor
+Z153 !s108 1520435410.591000
+Z154 !s107 //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Subtractor.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTB
+!i10b 1
+!s100 2@J`jfEI4kg>a>3om8mLh2
+Il[V6M^?[9R0JS[VE?ZmJP3
+Z155 Vc<=32996OT2f`M7E_UhYX1
+R4
+w1520435404
+Z156 8//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/TestBench.v
+Z157 F//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/TestBench.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1520435411.637000
+!s107 //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/TestBench.v|
+Z158 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/TestBench.v|
+!s101 -O0
+R10
+n@t@b
+vTwosComplement
+Z159 !s100 A`NWfUd;GSjBh@fTCX0VR3
+Z160 IRLAR_ohZdeV1o`IclLZY21
+Z161 VDmb9G;z1IfI9i_0G[^YKY0
+R4
+Z162 w1520401220
+Z163 8//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/TwosComplement.v
+Z164 F//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/TwosComplement.v
+L0 1
+R8
+r1
+31
+Z165 !s90 -reportprogress|300|-work|work|//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/TwosComplement.v|
+R10
+Z166 n@twos@complement
+Z167 !s108 1520435410.871000
+Z168 !s107 //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/TwosComplement.v|
+!i10b 1
+!s85 0
+!s101 -O0

@@ -1,0 +1,94 @@
+//Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/controller.v {1 {vlog -work work //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module controller
+-- Compiling module controllerTB
+
+Top level modules:
+	controllerTB
+
+} {} {}} //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ShiftRegA.v {1 {vlog -work work //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ShiftRegA.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ShiftRegA
+
+Top level modules:
+	ShiftRegA
+
+} {} {}} //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ShiftRegFM.v {1 {vlog -work work //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ShiftRegFM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ShiftRegFM
+
+Top level modules:
+	ShiftRegFM
+
+} {} {}} //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/BReg.v {1 {vlog -work work //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/BReg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BReg
+
+Top level modules:
+	BReg
+
+} {} {}} //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Adder.v {1 {vlog -work work //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/RegS.v {1 {vlog -work work //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/RegS.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SReg
+
+Top level modules:
+	SReg
+
+} {} {}} //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ManReg.v {1 {vlog -work work //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ManReg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ManReg
+
+Top level modules:
+	ManReg
+
+} {} {}} //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ExpReg.v {1 {vlog -work work //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/ExpReg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ExpReg
+
+Top level modules:
+	ExpReg
+
+} {} {}} //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/SFF.v {1 {vlog -work work //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/SFF.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SFF
+
+Top level modules:
+	SFF
+
+} {} {}} //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Comprator.v {1 {vlog -work work //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Comprator.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Comprator
+
+Top level modules:
+	Comprator
+
+} {} {}} //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Counter.v {1 {vlog -work work //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Counter.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter
+-- Compiling module counterTB
+
+Top level modules:
+	counterTB
+
+} {} {}} //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/TwosComplement.v {1 {vlog -work work //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/TwosComplement.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TwosComplement
+
+Top level modules:
+	TwosComplement
+
+} {} {}} //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Subtractor.v {1 {vlog -work work //Mac/Home/Desktop/CA/Project/CA01/ProjectVerilog/Subtractor.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Subtractor
+
+Top level modules:
+	Subtractor
+
+} {} {}}

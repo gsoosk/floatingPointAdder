@@ -1,0 +1,44 @@
+library verilog;
+use verilog.vl_types.all;
+entity floatingPointAdder is
+    port(
+        A               : in     vl_logic_vector(31 downto 0);
+        B               : in     vl_logic_vector(31 downto 0);
+        clk             : in     vl_logic;
+        rst             : in     vl_logic;
+        start           : in     vl_logic;
+        done            : out    vl_logic;
+        Ans             : out    vl_logic_vector(31 downto 0);
+        signOne         : out    vl_logic;
+        signTwo         : out    vl_logic;
+        expOne          : out    vl_logic_vector(7 downto 0);
+        expTwo          : out    vl_logic_vector(7 downto 0);
+        manOne          : out    vl_logic_vector(22 downto 0);
+        manTwo          : out    vl_logic_vector(22 downto 0);
+        ldS1            : out    vl_logic;
+        ldS2            : out    vl_logic;
+        ldExp1          : out    vl_logic;
+        ldExp2          : out    vl_logic;
+        ldM1            : out    vl_logic;
+        ldM2            : out    vl_logic;
+        ldRegA          : out    vl_logic;
+        ldRegB          : out    vl_logic;
+        ldRegS          : out    vl_logic;
+        shEn            : out    vl_logic;
+        cntEn           : out    vl_logic;
+        ldC             : out    vl_logic;
+        ldFM            : out    vl_logic;
+        shM             : out    vl_logic;
+        twosOne         : out    vl_logic_vector(24 downto 0);
+        twosTwo         : out    vl_logic_vector(24 downto 0);
+        BReg            : out    vl_logic_vector(24 downto 0);
+        AReg            : out    vl_logic_vector(23 downto 0);
+        S               : out    vl_logic_vector(24 downto 0);
+        complete        : out    vl_logic;
+        subAns          : out    vl_logic_vector(7 downto 0);
+        FMInput         : out    vl_logic_vector(24 downto 0);
+        ps              : out    vl_logic_vector(2 downto 0);
+        ns              : out    vl_logic_vector(2 downto 0);
+        addAnswer       : out    vl_logic_vector(24 downto 0)
+    );
+end floatingPointAdder;

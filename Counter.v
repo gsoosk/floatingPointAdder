@@ -2,7 +2,7 @@ module Counter(input[7:0] n, input clk, rst, cen, ldC, output complete);
   reg[7:0] s;
   always@(posedge clk, posedge rst) begin
   if (ldC == 1)
-    s <= n - 1;
+    s <= n;
     else begin
       if(cen == 1 && s>0)
         s <= s - 1'b1;
@@ -11,7 +11,7 @@ module Counter(input[7:0] n, input clk, rst, cen, ldC, output complete);
     end
   end
 
-  assign complete = (s==0) ? 1 : 0;
+  assign complete = (s>1) ? 0 : 1;
 
 endmodule
 
